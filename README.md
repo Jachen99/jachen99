@@ -3,7 +3,7 @@
 ## Hi👋 I'am Jachen99 (软件一班季同学)
 ### A backend developer focusing on Java, Spring, and Microservices  
 
-[![Email](https://img.shields.io/badge/Email-jachen@example.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:jachen@example.com)  
+[![Email](https://img.shields.io/badge/Email-jachen@example.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:chenja630@gmail.com)  
 [![Blog](https://img.shields.io/badge/Blog-blog.jiguanchen.space-0E83CD?style=flat-square&logo=Hexo)](https://blog.jiguanchen.space)
 
 ***
@@ -11,9 +11,9 @@
 # 🎇My projects
 | Project Name | Language | Repositories | Priority |
 |:------------:|:--------:|:------------:|:--------:|
-| Open Source Blogging Framework | JavaScript | [Docusaurus](https://github.com/facebook/docusaurus) | ⭐⭐⭐⭐⭐ |
-| Java-Python Data Processing | Java/Python | [DataBridge](https://github.com/jachen99/DataBridge) | ⭐⭐⭐⭐ |
-| My Portfolio Website | HTML/CSS | [MyWebsite](https://github.com/jachen99/MyWebsite) | ⭐⭐⭐ |
+| MyBlog Built with Docusaurus | JavaScript | [MyBlog](https://blog.jiguanchen.space) | ⭐⭐⭐⭐⭐ |
+| Java Data Processing | Java | [yygh_parent](https://github.com/Jachen99/yygh_parent) | ⭐⭐⭐⭐ |
+| My authority Project | Java | [authority](https://github.com/Jachen99/authority) | ⭐⭐⭐ |
 
 ***
 
