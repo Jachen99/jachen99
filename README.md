@@ -4,7 +4,10 @@
 ### A backend developer focusing on Java, Spring, and Microservices  
 
 [![Email](https://img.shields.io/badge/Email-jachen@example.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:chenja630@gmail.com)  
-[![Blog](https://img.shields.io/badge/Blog-blog.jiguanchen.space-0E83CD?style=flat-square&logo=Hexo)](https://blog.jiguanchen.space)
+[![Blog](https://img.shields.io/badge/Blog-blog.jiguanchen.space-0E83CD?style=flat-square&logo=Docusaurus)](https://blog.jiguanchen.space)
+[![CSDN](https://img.shields.io/badge/CSDN-%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0-orange?style=flat-square&logo=CSDN)](https://blog.csdn.net/m0_46464597?type=blog)
+[![Weibo](https://img.shields.io/badge/Weibo-%E6%88%91%E7%9A%84%E5%BE%AE%E5%8D%9A-red?style=flat-square&logo=Sina%20Weibo)](https://weibo.com/u/5489560765)  
+
 
 ***
 
