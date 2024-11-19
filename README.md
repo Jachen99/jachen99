@@ -18,4 +18,4 @@
 ***
 
 ![info](https://github-readme-stats.vercel.app/api?username=jachen99&show_icons=true&count_private=true&hide=prs&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jachen99&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jachen99&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
