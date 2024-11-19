@@ -19,7 +19,7 @@
 
 ***
 
-![Jachen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jachen99&show_icons=true&theme=black)
+[![Jachen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jachen99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jachen99&layout=compact&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 
