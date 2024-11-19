@@ -13,8 +13,8 @@
 | Project Name | Language | Repositories | Priority |
 |:------------:|:--------:|:------------:|:--------:|
 | MyBlog Built with Docusaurus | JavaScript | [MyBlog](https://github.com/Jachen99/Jachen99.github.io) | ⭐⭐⭐⭐⭐ |
-| Java Data Processing | Java | [yygh_parent](https://github.com/Jachen99/yygh_parent) | ⭐⭐⭐⭐ |
-| My authority Project | Java | [authority](https://github.com/Jachen99/authority) | ⭐⭐⭐ |
+| Reservation Project | Java | [yygh_parent](https://github.com/Jachen99/yygh_parent) | ⭐⭐⭐⭐ |
+| Authority Project | Java | [authority](https://github.com/Jachen99/authority) | ⭐⭐⭐ |
 
 ***
 
