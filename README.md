@@ -3,7 +3,7 @@
 ## Hi👋 I'am Jachen (软件一班季同学)
 ### A backend developer focusing on Java, Spring, Microservices, currently specializing in the power industry  
 
-[![Email](https://img.shields.io/badge/Email-chenja630@gmail.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:chenja630@gmail.com)    [![Blog](https://img.shields.io/badge/Blog-blog.jiguanchen.space-0E83CD?style=flat-square&logo=Docusaurus)](https://blog.jiguanchen.space)    [![CSDN](https://img.shields.io/badge/CSDN-%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0-orange?style=flat-square&logo=CSDN)](https://blog.csdn.net/m0_46464597?type=blog)
+[![Email](https://img.shields.io/badge/Email-chenja630@gmail.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:chenja630@gmail.com)    [![Blog](https://img.shields.io/badge/Blog-blog.jiguanchen.space-0E83CD?style=flat-square&logo=Docusaurus)](https://blog.jiguanchen.space)  
 
 
 ***
