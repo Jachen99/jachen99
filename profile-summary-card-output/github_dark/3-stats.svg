@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="260" viewBox="0 0 650 260" role="img" aria-labelledby="title">
+  <title id="title">Jachen99 public GitHub statistics</title>
+  <style>.card{fill:#0d1117;stroke:#30363d}.heading{fill:#f0f6fc;font:700 24px sans-serif}.subheading{fill:#8b949e;font:14px sans-serif}.label{fill:#c9d1d9;font:16px sans-serif}.value{fill:#58a6ff;font:700 18px sans-serif}.rule{stroke:#21262d}</style>
+  <rect class="card" x="1" y="1" width="648" height="258" rx="12"/>
+  <text class="heading" x="38" y="50">Jachen99 · GitHub statistics</text>
+  <text class="subheading" x="38" y="76">Public data · refreshed weekly</text>
+  <line class="rule" x1="38" y1="86" x2="612" y2="86"/>
+  <text x="38" y="102" class="label">Public repositories</text><text x="610" y="102" class="value" text-anchor="end">20</text><text x="38" y="136" class="label">Public commits</text><text x="610" y="136" class="value" text-anchor="end">4118</text><text x="38" y="170" class="label">Stars received</text><text x="610" y="170" class="value" text-anchor="end">13</text><text x="38" y="204" class="label">Forks</text><text x="610" y="204" class="value" text-anchor="end">1</text>
+</svg>

@@ -1,0 +1,36 @@
+{
+  "user": {
+    "login": "Jachen99",
+    "public_repos": 2
+  },
+  "repositories": [
+    {
+      "name": "public-java",
+      "private": false,
+      "fork": false,
+      "language": "Java",
+      "stargazers_count": 3,
+      "forks_count": 2
+    },
+    {
+      "name": "public-web",
+      "private": false,
+      "fork": false,
+      "language": "JavaScript & XML",
+      "stargazers_count": 5,
+      "forks_count": 1
+    },
+    {
+      "name": "private-never-read",
+      "private": true,
+      "fork": false,
+      "language": "Secret",
+      "stargazers_count": 99,
+      "forks_count": 99
+    }
+  ],
+  "commit_counts": {
+    "public-java": 7,
+    "public-web": 4
+  }
+}
