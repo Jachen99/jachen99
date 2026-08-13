@@ -21,6 +21,45 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Generate public dark profile cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+          python3 .github/scripts/generate_profile_cards.py
+          --username "${{ github.repository_owner }}"
+          --output-dir profile-summary-card-output
+
+      - name: Commit generated cards
+        run: |
+          git add --all profile-summary-card-output
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile cards"
+          git push origin main
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+
       - name: Generate dark profile cards
         uses: vn7n24fzkq/github-profile-summary-cards@9273b20f4a9698028d98508252d79125ba49adb6
         env:
