@@ -4,5 +4,5 @@
   <rect class="card" x="1" y="1" width="648" height="258" rx="12"/>
   <text class="heading" x="38" y="50">Jachen99 · Languages</text>
   <text class="subheading" x="38" y="76">Public repositories by primary language</text>
-  <text x="38" y="112" class="label">Java</text><rect x="275" y="98" width="260" height="14" rx="7" class="bar"/><text x="570" y="112" class="value" text-anchor="end">13 repos</text><text x="38" y="142" class="label">JavaScript</text><rect x="275" y="128" width="40" height="14" rx="7" class="bar"/><text x="570" y="142" class="value" text-anchor="end">2 repos</text>
+  <text x="38" y="112" class="label">Java</text><rect x="275" y="98" width="260" height="14" rx="7" class="bar"/><text x="570" y="112" class="value" text-anchor="end">13 repos</text><text x="38" y="142" class="label">JavaScript</text><rect x="275" y="128" width="40" height="14" rx="7" class="bar"/><text x="570" y="142" class="value" text-anchor="end">2 repos</text><text x="38" y="172" class="label">Python</text><rect x="275" y="158" width="20" height="14" rx="7" class="bar"/><text x="570" y="172" class="value" text-anchor="end">1 repos</text>
 </svg>
